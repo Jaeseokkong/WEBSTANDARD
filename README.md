@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=transparent&height=50&text=Stroke%20Test&fontAlign=20&fontSize=20)
+![header](https://capsule-render.vercel.app/api?type=transparent&height=50&text=Stroke%20Test&fontAlign=20&fontSize=50)
 
 https://img.shields.io/badge/-javascript-red
 # 웹 표준 사이트
