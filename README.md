@@ -1,6 +1,6 @@
 <div>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/javascript-#F7DF1E?style=flat&logo=JS&logoColor=white">
+  <img src="https://img.shields.io/badge/JS-#F7DF1E?style=flat&logo=JavaScript&logoColor=white">
 </div>
 
 # 웹 표준 사이트
