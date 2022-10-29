@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=50&text=웹%20표준%20사이트&fontAlign=20&fontSize=40)
+![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=50&text=웹%20표준%20사이트&fontAlign=10&fontSize=40)
 
 https://img.shields.io/badge/-javascript-red
 # 웹 표준 사이트
